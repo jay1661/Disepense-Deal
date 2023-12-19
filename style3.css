@@ -1,0 +1,58 @@
+.driver-border
+{
+	margin-top: 20px;
+}
+
+.driver_details 
+{
+	height: auto;
+	width: 250px;
+	margin: 20px;
+    border: 1px solid white;
+    box-shadow: 2px 2px 2px 2px;
+ }
+
+ .personal_details
+ {
+ 	height: auto;
+	width: 1150px;
+	margin: 20px;
+    border: 1px solid white;
+    box-shadow: 2px 2px 2px 2px;
+ }
+.img-round
+{
+	padding: 10px;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+.img-square
+{
+	padding: 10px;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+}
+.btn1
+{
+	border-radius: 4px; 
+	font-size: 15px;
+	font-weight: bold;
+	color: #ffffff; 
+	background-color: #f77b55; 
+	height: 40px;
+	width: 220px; 
+	float: left;
+	margin-bottom: 20px;
+}	
+
+.contact-form 
+{
+	width: auto;
+	height: auto!important;
+    padding: 45px 10px 45px 10px;
+    background-color: #FFF;
+    box-shadow: 0 0px 7px #ccdee6;
+    margin-bottom: 30px;
+}		
